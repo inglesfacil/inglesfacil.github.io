@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   enable-background="new 0 0 512 512"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="phone.svg"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="692"
+     inkscape:window-height="510"
+     id="namedview5"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="1658"
+     inkscape:window-y="354"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" /><path
+     id="smartphone-4-icon"
+     d="M334.832,50H177.168c-18.227,0-33,14.774-33,33v346c0,18.226,14.773,33,33,33h157.664  c18.227,0,33-14.774,33-33V83C367.832,64.774,353.059,50,334.832,50z M238.5,80.222h37c2.209,0,4,1.791,4,4s-1.791,4-4,4h-37  c-2.209,0-4-1.791-4-4S236.291,80.222,238.5,80.222z M257.002,443.056c-8.838,0-16-7.163-16-16s7.162-16,16-16  c8.834,0,16,7.163,16,16S265.836,443.056,257.002,443.056z M342.75,393.75H169.252v-275.5H342.75V393.75z"
+     style="fill:#2c5aa0;fill-opacity:1" /></svg>
