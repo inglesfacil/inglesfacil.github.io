@@ -1,11 +1,25 @@
 body {
     
     color:white;
-    background-color: #212121;
+    background-color: #2c5aa0;
 }
 
 #header {
 
     text-align: center;
     margin: 30px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+
+    color:white;
+}
+
+a:visited {
+
+    color: white;
 }
