@@ -19,5 +19,6 @@ body {
     
 }
 
-#mailchimp h1{
+#mailchimp {
+    text-align: center;
 }
