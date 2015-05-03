@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- License Agreement at http://iconmonstr.com/license/ -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="iconmonstr-cube-11-icon.svg"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview5"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="1366"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" /><path
+     id="cube-11-icon"
+     d="M256,50L67.166,153v208.246L256,462l188.834-100.754V154.124L256,50z M410.5,249.521L359,276.453v-55.951  l51.5-27.477V249.521z M189.11,239.068l49.723,27.116v54.693l-49.723-26.932V239.068z M202.79,207.426l51.265-27.51l53.764,28.977  l-51.734,27.603L202.79,207.426z M273.166,266.302l51.5-27.477v55.591l-51.5,26.932V266.302z M344.197,189.488l-53.881-29.036  l48.08-25.809l53.395,29.447L344.197,189.488z M302.588,114.895l-48.499,26.035l-46.823-25.23l48.65-26.538L302.588,114.895z   M171.29,135.322l46.537,25.071l-51.047,27.393l-45.834-25.004L171.29,135.322z M154.776,220.342v55.003L101.5,246.495v-55.213  L154.776,220.342z M101.5,285.547l53.276,28.86v54.685L101.5,340.66V285.547z M189.11,387.398v-54.4l49.723,26.941v53.98  L189.11,387.398z M273.166,360.106l51.5-26.94v53.294l-51.5,27.46V360.106z M359,368.137v-52.925l51.5-26.933v52.381L359,368.137z"
+     style="fill:#2c5aa0;fill-opacity:1" /></svg>
