@@ -43,7 +43,7 @@
             <div class="jumbotron">
              <img src="res/logo3.png" height="220">
              <h1 id="title">InglesFacil</h1>
-             <a href="/about_course.html" class="btn btn-primary" role="button">Obtener Mas información</a>
+             <a id="more_info" href="#info" class="btn btn-primary" role="button">Obtener Mas información</a>
              </div>
         </div>
     </main>
@@ -62,7 +62,7 @@
         <!--sobre_el_curso--->
         
         
-        <div class="container">
+        <div id="info" class="container">
             <h1 style="text-align:center">Un curso para ti</h1>
             <div class="row" style="padding-top:30px">
                 <div class="col-md-4">
@@ -158,6 +158,13 @@
 <!--final del registro-->
         
 <hr>
+        <script>
+            $('#more_info').click(function(){
+                $('html, body').animate({
+                    scrollTop: $( $.attr(this, 'href') ).offset().top -40}, 500);
+                return false;
+            });
+        </script>
         <footer>
         <p style="text-align:center"><small> InglesFacil. 2015 Todos los derechos reservados.</small></p>
         </footer>
