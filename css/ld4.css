@@ -1,0 +1,25 @@
+body { 
+font-family: 'Raleway', sans-serif;
+background: url(../res/house.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#title{
+    text-align: center;
+    color:white;
+}
+
+.container{
+    background-color: rgba(0,0, 0,0.3);  
+    color:white;
+    text-align: center;
+}
+
+#qualities{
+    border-radius: 25px;
+    background-color: rgba(0,0, 0,0.3);  
+
+}
